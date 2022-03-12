@@ -31,7 +31,7 @@ cards.forEach(card => {
           balance.innerText = `Balance: $${cash}`
           // agar $ bolsa alert yuboramiz
           setTimeout(() => {
-            alert('Yutding!')
+            alert('You Got!')
           }, 1000)
           // oyinni toxtatamiz
           counter = 4
@@ -43,7 +43,7 @@ cards.forEach(card => {
         balance.innerText = `Balance: $${cash}`
 
         setTimeout(() => {
-          alert('Yutqizding!')
+          alert('You Lose')
         }, 1000)
       }
     }

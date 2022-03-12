@@ -42,7 +42,7 @@ body {
 
 .card__face--front {
     background: red;
-    background-image: url("card.jpg");
+    background-image: url("qwert.jpg");
     background-size: contain;
 }
 
